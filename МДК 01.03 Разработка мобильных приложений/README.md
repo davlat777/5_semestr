@@ -15,3 +15,4 @@
    - Язык программирования(Java, Cotlin)
    - Цель: Сделать переход между двумя страницами
    - 
+![image](https://github.com/davlat777/5_semestr/assets/113089483/47d0bba8-42b1-44ea-bfcc-6054dad8c1c4)
