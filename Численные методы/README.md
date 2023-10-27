@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/16RH8KcgBkEYgThC_nJbTTuYeChhzL8UHrOMEtIm57Bw/edit?usp=drivesdk
 https://docs.google.com/spreadsheets/d/1CExfvVkZrSPlTMbtBj8WLUxY5MjI3KT3VSxEuTRZZ-Y/edit?usp=sharing
 https://replit.com/@ozonkee/Chisliennyie-mietody
 Работа с матрицами (для решения уравнений), регрессия(по заданным данным сделать предсказание)/интерполяция(задать математически уравнение для данных), 
