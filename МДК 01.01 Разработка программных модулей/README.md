@@ -17,3 +17,6 @@ Visual Studio
 Цель: Сделать переход между двумя страницами
 
 ![image](https://github.com/davlat777/5_semestr/assets/113089483/0b4a754b-1b54-419e-a08a-d91a0fb3bb7b)
+
+![image](https://github.com/davlat777/5_semestr/assets/113089483/77ba2c9d-8707-4e77-9565-a8e1f5e8e68d)
+
