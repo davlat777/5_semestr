@@ -15,3 +15,5 @@ Visual Studio
 Работа с API
 Язык программирования(Java, Cotlin)
 Цель: Сделать переход между двумя страницами
+
+![image](https://github.com/davlat777/5_semestr/assets/113089483/0b4a754b-1b54-419e-a08a-d91a0fb3bb7b)
