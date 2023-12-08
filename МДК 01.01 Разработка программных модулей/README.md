@@ -1,9 +1,10 @@
-https://docs.google.com/document/d/1O7Vu_bbhKMwrgGRbpyPQznzMsj8eeMOOhlDooRZYsgw/edit?usp=sharing
+Конспект - https://docs.google.com/document/d/1O7Vu_bbhKMwrgGRbpyPQznzMsj8eeMOOhlDooRZYsgw/edit?usp=sharing
 
 Сайт - http://project7784034.tilda.ws/
 
- https://docs.roboflow.com/deploy/web-browser 
- https://replit.com/@roboflow/Roboflow-Webcam-Quickstart#style.css 
+Робофлоу - https://docs.roboflow.com/deploy/web-browser
+
+Реплит - https://replit.com/@roboflow/Roboflow-Webcam-Quickstart#style.css 
 
 Visual Studio
 Фронтенд
